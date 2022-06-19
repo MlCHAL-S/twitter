@@ -1,0 +1,18 @@
+body{
+    background-color: #5c6163;
+}
+.post{
+    background-color: #6199af;
+    width: 600px;
+    height: 150px;
+}
+.img-and-post{
+    background-color: #9ccfe4;
+    width: 600px;
+    height: 75px;
+}
+.options-and-button{
+    background-color: #36be8a;
+    width: 600px;
+    height: 75px;
+}
